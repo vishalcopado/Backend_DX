@@ -12,6 +12,9 @@
                 <field>Name</field>
             </layoutItems>
             <layoutItems>
+                <emptySpace>true</emptySpace>
+            </layoutItems>
+            <layoutItems>
                 <behavior>Edit</behavior>
                 <field>dummy_field__c</field>
             </layoutItems>
