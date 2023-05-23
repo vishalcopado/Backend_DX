@@ -25,7 +25,7 @@
                 <field>Title</field>
             </layoutItems>
             <layoutItems>
-                <behavior>Edit</behavior>
+                <behavior>Required</behavior>
                 <field>Department</field>
             </layoutItems>
             <layoutItems>
@@ -51,7 +51,7 @@
                 <field>HomePhone</field>
             </layoutItems>
             <layoutItems>
-                <behavior>Edit</behavior>
+                <behavior>Required</behavior>
                 <field>MobilePhone</field>
             </layoutItems>
             <layoutItems>
