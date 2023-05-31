@@ -9,4 +9,8 @@
         <value>RetrieveDummys</value>
     </caseValues>
     <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage>VR translation</errorMessage>
+        <name>VR1</name>
+    </validationRules>
 </CustomObjectTranslation>
