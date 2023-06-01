@@ -2,6 +2,6 @@
 <ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>VR1</fullName>
     <active>true</active>
-    <errorConditionFormula>CreatedBy.CompanyName=&apos;ABC&apos;</errorConditionFormula>
+    <errorConditionFormula>dummy_field__c =&apos;TEZX&apos;</errorConditionFormula>
     <errorMessage>Some Error Occurred</errorMessage>
 </ValidationRule>
