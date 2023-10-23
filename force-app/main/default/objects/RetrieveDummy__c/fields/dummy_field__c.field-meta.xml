@@ -3,7 +3,7 @@
     <fullName>dummy_field__c</fullName>
     <externalId>false</externalId>
     <label>dummy field</label>
-    <length>15</length>
+    <length>17</length>
     <required>false</required>
     <trackTrending>false</trackTrending>
     <type>Text</type>
