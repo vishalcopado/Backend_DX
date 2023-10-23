@@ -8,6 +8,13 @@
         <value>Label 1 Description</value>
     </labels>
     <labels>
+        <fullName>label11</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>label11</shortDescription>
+        <value>11</value>
+    </labels>
+    <labels>
         <fullName>label3</fullName>
         <language>en_US</language>
         <protected>true</protected>
