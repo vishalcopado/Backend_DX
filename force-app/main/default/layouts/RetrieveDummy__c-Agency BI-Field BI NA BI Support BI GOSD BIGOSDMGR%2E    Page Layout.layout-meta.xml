@@ -12,7 +12,7 @@
                 <field>Name</field>
             </layoutItems>
             <layoutItems>
-                <behavior>Required1</behavior>
+                <behavior>Required2</behavior>
                 <field>dummy_field__c</field>
             </layoutItems>
         </layoutColumns>
