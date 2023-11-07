@@ -35,4 +35,14 @@
         </criteriaItems>
         <triggerType>onCreateOrTriggeringUpdate</triggerType>
     </rules>
+    <rules>
+        <fullName>newAccountRule2</fullName>
+        <active>true</active>
+        <criteriaItems>
+            <field>Account.Name</field>
+            <operation>startsWith</operation>
+            <value>VP</value>
+        </criteriaItems>
+        <triggerType>onCreateOrTriggeringUpdate</triggerType>
+    </rules>
 </Workflow>
