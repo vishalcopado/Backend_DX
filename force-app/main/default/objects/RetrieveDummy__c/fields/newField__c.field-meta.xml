@@ -3,7 +3,7 @@
     <fullName>newField__c</fullName>
     <externalId>false</externalId>
     <label>newField</label>
-    <length>18</length>
+    <length>19</length>
     <required>false</required>
     <trackTrending>false</trackTrending>
     <type>Text</type>
