@@ -22,6 +22,13 @@
         <value>3</value>
     </labels>
     <labels>
+        <fullName>lll1</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>lll1</shortDescription>
+        <value>123</value>
+    </labels>
+    <labels>
         <fullName>newLabel2</fullName>
         <language>en_US</language>
         <protected>true</protected>
