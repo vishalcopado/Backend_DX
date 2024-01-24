@@ -3978,9 +3978,6 @@
         <layout>ResourcePreference-Resource Preference Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>RetrieveDummy__c-RetrieveDummy Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>ReturnOrder-Return Order Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
