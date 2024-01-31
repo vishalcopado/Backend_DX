@@ -1,1 +1,2 @@
 **/layouts/*.xml
+**/objects/**/fields/*.field-meta.xml
