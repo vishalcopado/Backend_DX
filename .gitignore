@@ -1,1 +1,6 @@
 .DS_Store
+.sfdx
+.sf
+node_modules
+.copado
+package-lock.json
