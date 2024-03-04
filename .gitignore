@@ -3,3 +3,4 @@
 .sf
 node_modules
 package-lock.json
+force-app/main/default/permissionsets/New_PS1.*
