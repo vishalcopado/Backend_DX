@@ -3,19 +3,4 @@
     <fullName>rc1</fullName>
     <active>true</active>
     <label>rc1</label>
-    <picklistValues>
-        <picklist>pick1__c</picklist>
-        <values>
-            <fullName>1</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>2</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>3</fullName>
-            <default>false</default>
-        </values>
-    </picklistValues>
 </RecordType>
