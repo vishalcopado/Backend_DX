@@ -5,6 +5,21 @@
     <description>rc1</description>
     <label>RCRT1</label>
     <picklistValues>
+        <picklist>pick1__c</picklist>
+        <values>
+            <fullName>1</fullName>
+            <default>true</default>
+        </values>
+        <values>
+            <fullName>2</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>3</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
         <picklist>pick2__c</picklist>
         <values>
             <fullName>1</fullName>
