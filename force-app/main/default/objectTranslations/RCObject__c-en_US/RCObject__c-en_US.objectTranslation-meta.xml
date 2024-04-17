@@ -8,5 +8,19 @@
         <plural>true</plural>
         <value>RCObjects</value>
     </caseValues>
+    <fieldSets>
+        <label>fs1</label>
+        <name>fieldset1</name>
+    </fieldSets>
+    <recordTypes>
+        <description></description>
+        <label>12</label>
+        <name>RCRT1</name>
+    </recordTypes>
+    <recordTypes>
+        <description></description>
+        <label>13</label>
+        <name>RCRT2</name>
+    </recordTypes>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>
