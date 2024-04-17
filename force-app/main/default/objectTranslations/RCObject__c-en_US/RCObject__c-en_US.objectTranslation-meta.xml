@@ -23,4 +23,8 @@
         <name>RCRT2</name>
     </recordTypes>
     <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage>testing1</errorMessage>
+        <name>VR1</name>
+    </validationRules>
 </CustomObjectTranslation>
