@@ -14,11 +14,6 @@
     </fieldSets>
     <recordTypes>
         <description></description>
-        <label>12</label>
-        <name>RCRT1</name>
-    </recordTypes>
-    <recordTypes>
-        <description></description>
         <label>13</label>
         <name>RCRT2</name>
     </recordTypes>
