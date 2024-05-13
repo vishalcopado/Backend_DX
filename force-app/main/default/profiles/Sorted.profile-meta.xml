@@ -2789,7 +2789,7 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>false</editable>
+        <editable>true</editable>
         <field>SortingObject__c.secondElement__c</field>
         <readable>false</readable>
     </fieldPermissions>
